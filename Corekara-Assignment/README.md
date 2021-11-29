@@ -9,3 +9,4 @@ StepDefinitions file here: src/test/java/coreKara_StepDefinitions/StepDefinition
 And GenericFunctions here: src/test/java/coreKara_StepDefinitions/GenericFunctions.java
 
 **MANUAL TEST CASE ASSIGNMENT**
+The manual test case assignment is stored in root, file Manual Testcases Corekara.docx
